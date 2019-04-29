@@ -1,4 +1,4 @@
-# MongoDB Sharded Cluster Deployment (3-shard-replicaset,2-routers, 1-config-recplicaset)
+# MongoDB Sharded Cluster Deployment (3-shard-replicaset,2-routers, 1-config-replicaset)
 
 <img src="img/shardedcluster.png" style="width: 700px;"/>
 
@@ -8,7 +8,7 @@
 
 - An account has been registered with the Google Compute Platform (GCP). [Sing up free here](https://cloud.google.com/free/).
 
--  Sign-in to Google Cloud Platform console (console.cloud.google.com) and create a new project. Remember the project ID, a unique name across all Google Cloud projects (the name above has already been taken and will not work for you, sorry!). It will be referred to later in this codelab as PROJECT_ID.
+-  Sign-in to Google Cloud Platform console (console.cloud.google.com) and create a new project. Remember the project ID, a unique name across all Google Cloud projects (the name above has already been taken and will not work for you, sorry!). It will be referred to later in this guide as PROJECT_ID.
  
 - Next, you'll need to enable billing in the Developers Console in order to use Google Cloud resources like Cloud Datastore and Cloud Storage.
 
