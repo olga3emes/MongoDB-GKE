@@ -113,7 +113,7 @@ Execute the next script to clean the MongoDB arquitecture plus related Kubernete
 ```
 Checking in the [Google Cloud Platform Console](https://console.cloud.google.com), to ensure all resources have been removed.
 
-
+**WARNING:** Google has done obligatory the use of storage disk as minimum 10GB. It will be necesary change some .yaml and inside ./generate.sh option --size for disks creation. Be sure your zone is correctly configured or specify it with the command --zone=eu-west1-b, for example. (It will be update in next versions).
 
 ---
 ---
