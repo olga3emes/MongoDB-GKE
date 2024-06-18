@@ -1,4 +1,4 @@
-# MongoDB Sharded Cluster Deployment (3-shard-replicaset,2-routers, 1-config-replicaset)
+#Google Cloud Enviroment - MongoDB Sharded Cluster Deployment (3-shard-replicaset,2-routers, 1-config-replicaset)
 
 <img src="img/shardedcluster.png" style="width: 700px;"/>
 
